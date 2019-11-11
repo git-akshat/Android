@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553757458640",
+    "firebase_url": "https://plant-disease-prediction-22a58.firebaseio.com",
+    "project_id": "plant-disease-prediction-22a58",
+    "storage_bucket": "plant-disease-prediction-22a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553757458640:android:e1bbbfff9627ee9f1dded5",
+        "android_client_info": {
+          "package_name": "com.example.amoeba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553757458640-g6p4j9tsh62s1c41dcv8gdr9t4eirh8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amoeba",
+            "certificate_hash": "cbae8ef5a9281954cb414b81f1b81c7afaabff9f"
+          }
+        },
+        {
+          "client_id": "553757458640-c4m37777dj6764ajhs22usqlrkg8a098.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh-ohDe2TMG7NTV1LM1prLzOTtKgmo-3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553757458640-c4m37777dj6764ajhs22usqlrkg8a098.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
